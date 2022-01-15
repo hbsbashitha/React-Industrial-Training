@@ -1,11 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Test from './components/test';
+import LibraryPage from './components/libraryPage';
+import "./assets/scss/main.scss"
 
 function App() {
   return (
-      <Test/>
+      <LibraryPage/>
   );
 }
 
