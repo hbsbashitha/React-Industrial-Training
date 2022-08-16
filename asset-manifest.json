@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Industrial-Training/static/css/main.d2dce96b.css",
+    "main.js": "/React-Industrial-Training/static/js/main.433bba54.js",
+    "static/js/787.edd59a96.chunk.js": "/React-Industrial-Training/static/js/787.edd59a96.chunk.js",
+    "static/media/welcomeImage.jpg": "/React-Industrial-Training/static/media/welcomeImage.be9d91fa4873f24a2427.jpg",
+    "index.html": "/React-Industrial-Training/index.html",
+    "main.d2dce96b.css.map": "/React-Industrial-Training/static/css/main.d2dce96b.css.map",
+    "main.433bba54.js.map": "/React-Industrial-Training/static/js/main.433bba54.js.map",
+    "787.edd59a96.chunk.js.map": "/React-Industrial-Training/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2dce96b.css",
+    "static/js/main.433bba54.js"
+  ]
+}
